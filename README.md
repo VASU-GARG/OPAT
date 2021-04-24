@@ -15,7 +15,7 @@ We are really proud that we came up with an product which can solve the current 
 # What we learned
 During this hackathon, we learnt various new things which will help us in future. The biggest thing which we learnt is , how to work as a team, how to listen to other's idea and even express your idea to them and then finally implement the combined idea together. In terms of technical skills , we learnt basics of java script languages and how to use it in our project.
 
-# What's next for OPAT - one stop for all teachers
+# What's next for OPAT - one platform for all teachers
 Our idea is not completely implemented. we have many more things in our mind which we want to involve in our product. We even want to include teachers working at levels greater than the college level to use our product.
 
 # Built With
