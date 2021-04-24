@@ -19,9 +19,7 @@ During this hackathon, we learnt various new things which will help us in future
 Our idea is not completely implemented. we have many more things in our mind which we want to involve in our product. We even want to include teachers working at levels greater than the college level to use our product.
 
 # Built With
-api
-bootstrap
-css
-html
-javascript
-maps
+api, bootstrap, css, html, javascript, maps
+
+# Try it out
+[click here to visit the website]( vasu-garg.github.io)
