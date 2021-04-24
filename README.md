@@ -22,4 +22,4 @@ Our idea is not completely implemented. we have many more things in our mind whi
 api, bootstrap, css, html, javascript, maps
 
 # Try it out
-[click here to visit the website]( vasu-garg.github.io)
+[click here to visit the website](https://vasu-garg.github.io/OPAT/)
